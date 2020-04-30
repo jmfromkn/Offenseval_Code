@@ -17,7 +17,7 @@
  
  spaCy was used in this code to map and average vectors to the feature dataframe. This will require you to build basic models with spacy    using the word embeddings to use the nlp pipeline (see https://spacy.io/usage/vectors-similarity#converting)
  
- The Data Folder will include the hand-annotated development sets from the paper for Task A and Task B.  Full Training sets will not be included on this repository.
+ The Data Folder will include the hand-annotated development sets from the paper for Task A and Task B.  Full Training sets will not be included on this repository.  Please consult the shared task for information on obtaining the full training data.
 
 *Please modify path arguments in the files to match your paths
  If you simply want to run the full feature model and generate predictions: use TrainandPredict.py and TrainAndPredictTaskB.py as these will only require the filepaths of the training and test documents and will run the full process of training the model to predictions and output.
