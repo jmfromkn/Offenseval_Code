@@ -17,6 +17,10 @@
  
  spaCy was used in this code to map and average vectors to the feature dataframe. This will require you to build basic models with spacy    using the word embeddings to use the nlp pipeline (see https://spacy.io/usage/vectors-similarity#converting)
  
+ Pre-trained embeddings via GloVe's 200D Twitter Embeddings (https://nlp.stanford.edu/projects/glove/)
+ 
+ English Pre-trained 200D Twitter Word2Vec Embeddings via Deriu et al. (2017) https://www.spinningbytes.com/resources/wordembeddings
+ 
  The Data Folder will include the hand-annotated development sets from the paper for Task A and Task B.  Full Training sets will not be included on this repository.  Please consult the shared task for information on obtaining the full training data.
 
 *Please modify path arguments in the files to match your paths
