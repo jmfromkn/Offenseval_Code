@@ -4,6 +4,7 @@
  Code will be cleaned and refactored to make it more efficient in future.
  
  Version information for used libaries:
+  
   Python 3.6.0
  
   Spacy 2.2.3
