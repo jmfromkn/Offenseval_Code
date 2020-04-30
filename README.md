@@ -4,11 +4,15 @@
  Code will be cleaned and refactored to make it more efficient in future.
  
  Version information for used libaries:
- Python 3.6.0
- Spacy 2.2.3
- Scikit-Learn 0.22.1
- Pandas 0.25.3
- Visualizations in paper utilized matplotlib 3.1.2
+  Python 3.6.0
+ 
+  Spacy 2.2.3
+ 
+  Scikit-Learn 0.22.1
+ 
+  Pandas 0.25.3
+ 
+  Visualizations in paper utilized matplotlib 3.1.2
  
  spaCy was used in this code to map and average vectors to the feature dataframe. This will require you to build basic models with spacy    using the word embeddings to use the nlp pipeline (see https://spacy.io/usage/vectors-similarity#converting)
  
